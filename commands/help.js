@@ -32,7 +32,7 @@ module.exports = {
      
 
       const embed = new EmbedBuilder()
-         .setColor('#0099ff')
+         .setColor('#e2b3b3')
       .setTitle('.𝜗𝜚˚⋆')
       .setDescription('⋆౨ৎ˚⟡˖ ࣪\n\n- ニャー ？\n\n' +
         '**/play :** play\n' +
