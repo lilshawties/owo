@@ -33,11 +33,11 @@ module.exports = {
 
       const embed = new EmbedBuilder()
          .setColor('#0099ff')
-      .setTitle('💎 Prime Music Bot')
-      .setDescription('Welcome to the Music Bot!\n\n- Here are the available commands:\n\n' +
-        '**/play :** Start playing the songs.\n' +
-        '**/ping :** check bot latency.\n' +
-        '**/support :** Display support server info');
+      .setTitle('.𝜗𝜚˚⋆')
+      .setDescription('⋆౨ৎ˚⟡˖ ࣪\n\n- ニャー ？\n\n' +
+        '**/play :** play\n' +
+        '**/ping :** check \n' +
+    );
 
       return interaction.reply({ embeds: [embed] });
     } catch (e) {
